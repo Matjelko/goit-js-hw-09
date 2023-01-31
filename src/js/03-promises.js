@@ -30,7 +30,7 @@ function createPromises() {
       }, delay);
     });
 
-    return promise;
+    return promise; 
   }
 
   for (let i = 0; i < amount; i++) {
